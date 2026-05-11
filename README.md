@@ -9,4 +9,4 @@ The point of this project is for me to get more accustomed with the engineering 
 Everything used for this project should and will be uploaded by me to this github repository including code, research, models, etc.
 This is a private project, where unless specified was completely manufactured and designed under my own control
 
-- Anthony Papa
+Anthony Papa
